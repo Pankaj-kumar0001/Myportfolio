@@ -48,7 +48,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 3px;
-    background: #2f0a83;
+    background: #ff004f;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -67,7 +67,7 @@ nav ul li a:hover::after{
 
 }
 .header-text h1 span{
-    color: #2f0a83;
+    color: #ff004f;
 }
 /*-------------about----------*/
 #about{
@@ -112,7 +112,7 @@ nav ul li a:hover::after{
 content:'' ;
 width: 0;
 height: 3px;
-background: #2f0a83;
+background: #ff004f;
 position:absolute;
 left: 0;
 bottom: -8px;
@@ -126,7 +126,7 @@ transition: 0.5s;
     margin:10px 0 ;
 }
 .tab-contents ul li span{
-    color: #2f0a83;
+    color: #ff004f;
     font-size: 18px;
 }
 .tab-contents{
@@ -174,7 +174,7 @@ transition: 0.5s;
     display: inline-block;
 }
 .services-list div:hover{
-    background: #2f0a83;
+    background: #ff004f;
     transform: translateY(-10px);
 }
 /*-----------------portfolio------------------------*/
@@ -204,7 +204,7 @@ transition: 0.5s;
 .layer{
     width: 100%;
     height: 0%;
-    background: linear-gradient(rgba(0,0,0,0.6),#2f0a83);
+    background: linear-gradient(rgba(0,0,0,0.6),#ff004f);
     border-radius: 10px;
     position: absolute;
     left: 0;
@@ -230,7 +230,7 @@ transition: 0.5s;
 }
 .layer a{
     margin-top: 20px;
-    color:#2f0a83;
+    color:#ff004f;
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
@@ -250,7 +250,7 @@ transition: 0.5s;
     display: block;
     margin: 50px  auto;
     width: fit-content;
-    border: 1px solid #2f0a83;
+    border: 1px solid #ff004f;
     padding: 14px 50px;
     border-radius: 6px ;
     text-decoration: none;
@@ -260,7 +260,7 @@ transition: 0.5s;
 
 }
 .btn:hover{
-    background: #2f0a83;
+    background: #ff004f;
     
 }
 /*-----------------------contact----------------*/
@@ -276,7 +276,7 @@ transition: 0.5s;
     margin-top: 30px;
 }
 .contact-left p i{
-    color:#2f0a83;
+    color:#ff004f;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -296,12 +296,12 @@ transition: 0.5s;
 
 }
 .social-icons a:hover{
-    color: #2f0a83;
+    color: #ff004f;
     transform: translateY(-5px);
 }
 .btn.btn2{
     display: inline-block;
-    background:#2f0a83;
+    background:#ff004f;
 }
 .contact-right form{
     width: 100%;
@@ -357,7 +357,7 @@ nav.fas{
     font-size: 25px;
 }
 nav ul{
-    background-color: #2f0a83;
+    background-color: #ff004f;
     position: fixed;
     top: 0;
     right:-200;
